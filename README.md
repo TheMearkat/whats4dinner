@@ -12,3 +12,5 @@ Before running the application, make sure you have the following:
 
 Python 3 installed
 Required Python packages: tkinter, requests, pillow
+
+
